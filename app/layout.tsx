@@ -38,6 +38,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="5b9bd11c2be744e1" />
         <meta name="keywords" content="faro casino, faro casino зеркало, faro casino официальный сайт, фаро казино" />
         <meta name="robots" content="index, follow" />
         <script
